@@ -1,0 +1,36 @@
+{
+  "category" : "Super Hero Movies & Tv Series",
+  "acceptedFranchises" : [ "DC", "Marvel" ],
+  "movies" : [ {
+    "year" : 2008,
+    "cast" : [ "Christian Bale", "Health Ledger" ],
+    "title" : "Batman: The Dark Knight"
+  }, {
+    "year" : 2012,
+    "cast" : [ "Henry Cavil", "Gal Gadot" ],
+    "title" : "Justice League: Synder Cut"
+  }, {
+    "year" : 2015,
+    "cast" : [ "Robert Dowry", "Chrish Evans" ],
+    "title" : "Avengers: Age of Ultron"
+  }, {
+    "year" : 2012,
+    "cast" : [ "Chrish HemsWorth", "Chrish Evans" ],
+    "title" : "Avengers: The Avengers"
+  } ],
+  "genres" : [ "Action", "Adventure", "Heroic", "Dark", "Funny" ],
+  "tvSeries" : [ {
+    "year" : 2014,
+    "title" : "Flash"
+  }, {
+    "year" : 2008,
+    "title" : "Gotham"
+  }, {
+    "year" : 2015,
+    "title" : "Super Girl"
+  } ],
+  "otherDetails" : {
+    "language" : "English & Tamil",
+    "country" : "India"
+  }
+}

@@ -1,0 +1,29 @@
+{
+	"id": "0001",
+	"category": "donut",
+	"firstname": "Cake",
+	"ppu": 0.55,
+	"batters":
+		{
+			"batter":
+				[
+					{ "id": "1001", "model": "Regular" },
+					{ "id": "1002", "model": "Chocolate" },
+					{ "id": "1003", "model": "Blueberry" },
+					{ "id": "1004", "model": "Devil's Food" }
+				]
+		},
+	"topping":
+		[
+			{ "name":"meenu","id": "5001","type": "Choci" },
+			{ "name":"sri","id": "5002", "type": "Glazed" },
+			{ "name":"ram","id": "5005", "type": "Sugar" },
+			{ "name":"hema","id": "5007", "type": "Sugar" },
+			{ "name":"jashu","id": "5006", "type": "Chocolate with Sprinkles" },
+			{ "name":"mahesh","id": "5003", "type": "Sugar" },
+			{ "name":"ajay","id": "5004", "type": "Maple" }
+		]
+		
+				
+}
+                               
